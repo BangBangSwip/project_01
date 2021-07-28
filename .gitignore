@@ -3,3 +3,6 @@ index.css
 
 # 忽略所有 text 目录下的文件
 text/
+
+#不需要匹配的css
+promo.css
